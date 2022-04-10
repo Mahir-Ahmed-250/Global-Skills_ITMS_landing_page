@@ -37,7 +37,7 @@ td {
     border: 1px solid black;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1080px) {
     .logo-2 {
         width: 250px;
     }
@@ -48,7 +48,7 @@ td {
         position: absolute;
         left: 0px;
         top: 0px;
-        overflow-x: hidden;
+
     }
 
     .mid {
